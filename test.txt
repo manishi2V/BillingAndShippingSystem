@@ -1,1 +1,0 @@
-use echo your content > file name
